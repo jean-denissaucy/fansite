@@ -1,0 +1,182 @@
+body {
+
+    margin: 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    background-color: red;
+    text-shadow: 15px 15px 15px cornflowerblue;
+}
+
+.maruis {
+    font-size: x-large;
+    font-style: italic;
+}
+
+.stade {
+    font-size: x-large;
+    font-style: italic;
+}
+
+.Brennus {
+    font-size: x-large;
+    font-style: italic;
+}
+
+.hauteur {
+    font-size: x-large;
+    font-style: italic;
+}
+
+.subit {
+    font-size: x-large;
+    font-style: italic;
+}
+
+.témoin {
+    font-size: x-large;
+    font-style: italic;
+}
+
+
+.resultats {
+
+    text-shadow: 15px 10px 15px red;
+    font-size: xx-large;
+}
+
+.subit {
+    text-align: justify;
+}
+
+.reconquête {
+    text-shadow: 15px 10px 15px red;
+    font-size: xx-large;
+}
+
+
+.PA {
+    margin-left: 4rem;
+    text-shadow: 10px 10px 10px cornflowerblue;
+    color: red;
+}
+
+
+
+.RCTlegende {
+
+    border: 2px solid rgb(101, 0, 0);
+    margin: auto;
+
+}
+
+
+.talegendeRCTContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.XV-de-legende {
+
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.LLL {
+    text-shadow: 10px 10px 10px red;
+    font-size: xx-large;
+
+
+}
+
+.containerimg {
+
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+}
+
+.prct {
+
+
+    display: flex;
+    justify-content: center;
+    width: 45%;
+
+}
+
+.groupet {
+    display: flex;
+    justify-content: center;
+    width: 45%;
+}
+
+.container2 {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: red;
+
+}
+
+.fant {
+    text-align: center;
+    background-color: red;
+    text-shadow: 15px 15px 15px cornflowerblue;
+    width: 20rem;
+    height: 100%
+}
+
+.suivante {
+    border: 1px solid black;
+    width: 20rem;
+    background-color: red;
+    text-align: center;
+}
+
+.entéte {
+
+    width: 100%;
+    height: 250px;
+}
+
+.felix {
+    text-align: justify;
+    font-style: italic;
+    font-size: x-large;
+
+}
+
+h2 {
+    text-shadow: 10px 10px 10px red;
+}
+
+.lemaitre {
+    font-size: x-large;
+    font-style: italic;
+}
+
+.fondé {
+
+    font-size: x-large;
+    font-style: italic;
+}
+
+.palmares {
+    font-size: x-large;
+    font-style: italic;
+}
