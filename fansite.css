@@ -326,6 +326,11 @@ a:hover {
 
 /* mobile */
 @media (width <=550px) {
+    .container-joueur{
+        display: flex;
+        flex-direction: column;
+        
+    }
 
     .lemaitre {
         font-size: medium;
