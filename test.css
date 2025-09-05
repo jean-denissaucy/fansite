@@ -1,0 +1,28 @@
+.container8 {
+    width: 100%;
+}
+.un .deux .trois .quatre{ 
+    width:20rem;
+    height: 20rem;
+
+}
+
+.un {
+    border-color: aqua;
+}
+
+.trois{
+
+    border-color: blue;
+}
+
+.deux{
+
+    border-color: blueviolet;
+
+}
+
+.quatre {
+
+    border-color: red;
+}
